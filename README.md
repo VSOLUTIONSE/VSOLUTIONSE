@@ -18,7 +18,7 @@
 	<a href="https://www.linkedin.com/in/favour-emmanuel-183226161"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
 
-### Programming Languages....
+### Stack/Languages....
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html.png"/>
