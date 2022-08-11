@@ -8,7 +8,7 @@
 - I'm an ardent **Learner** | **Front-end developer** 
 - About me :- **Love Solving Problems** | **Tech-Enthusiast**
 - Currently **Learning Technologies in JavaScript and ReactJs a Front-end library** **Building Portfolio Projects**
-- Willing to contribute more and more in **Web Development, Open-Source and Brand Porjects**
+- Willing to contribute more and more in **Web Development, Open-Source and Brand Projects**
 
 
 ### Feel Free to Contact me.....
