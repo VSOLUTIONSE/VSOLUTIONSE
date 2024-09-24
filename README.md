@@ -5,9 +5,9 @@
 </p>
 
 
-- I'm an ardent **Learner** | **Front-end developer** 
-- About me :- **Love Solving Problems** | **Tech-Enthusiast**
-- Currently **Learning Technologies in JavaScript and ReactJs a Front-end library** **Building Portfolio Projects**
+- I'm an ardent **Learner** | **Software Developer** 
+- About me :- **Love Solving Problems** | **AI-Enthusiast**
+- Currently **Building backend APIs with Nodejs and expressjs** **Building solo**
 - Willing to contribute more and more in **Web Development, Open-Source and Brand Projects**
 
 
