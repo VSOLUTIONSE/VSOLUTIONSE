@@ -3,8 +3,7 @@ I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-
 
 <p align="center">
 <img 
-  width="40%" 
-  style="padding:10px" 
+  width="40%"  
   src="https://cdn.pixabay.com/photo/2017/08/30/07/52/coding-2694234_1280.jpg" 
   alt="Developer Working Illustration"
 />
