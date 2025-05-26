@@ -1,7 +1,7 @@
 ## Welcome Am Favour Emmanuel
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/git.png" alt="Git Icon"/>
 </p>
 
 
