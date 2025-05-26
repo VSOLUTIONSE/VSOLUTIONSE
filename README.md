@@ -2,11 +2,11 @@
 I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-world problems through clean, efficient, and user-focused code.
 
 <p align="center">
- <img 
+<img 
     width="40%"  
-    src="https://cdn.pixabay.com/photo/2017/08/30/07/52/coding-2694234_1280.jpg" 
-    alt="Developer Working Illustration"
-  />
+    src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" 
+    alt="Developer Coding Illustration"
+/>
 </p>
 
 
