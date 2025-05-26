@@ -12,7 +12,7 @@
 </p>
 
 
-- I'm an ardent **Learner** | **Software Developer** 
+- I'm an ardent **Learner** | **Frontend Developer** 
 - About me :- **Love Solving Problems** | **AI-Enthusiast**
 - Currently **learning React Naitive and appwrite architecture for buiding intuitive fullstack apps ** **Building solo**
 - Willing to contribute more and more in **Web Development, Open-Source and Brand Projects**
