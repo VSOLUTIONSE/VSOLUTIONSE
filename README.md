@@ -3,10 +3,11 @@ I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-
 
 <p align="center">
 <img 
-    width="40%"  
-    src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" 
-    alt="Developer Coding Illustration"
+  width="40%" 
+  src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" 
+  alt="Developer Coding Illustration" 
 />
+
 </p>
 
 
