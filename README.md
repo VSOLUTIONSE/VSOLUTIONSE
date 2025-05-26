@@ -4,9 +4,10 @@
 <img 
   width="40%" 
   style="padding:10px" 
-  src="https://cdn.dribbble.com/users/1626229/screenshots/16040024/media/59ce1228b42ac745198ff7d8b1c8a0ff.gif" 
+  src="https://cdn.pixabay.com/photo/2017/08/30/07/52/coding-2694234_1280.jpg" 
   alt="Developer Working Illustration"
 />
+
 
 </p>
 
