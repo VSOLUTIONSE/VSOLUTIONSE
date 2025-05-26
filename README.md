@@ -23,7 +23,8 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/nextjs.png" alt="Next.js Icon"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/javascript.png" alt="JavaScript Icon"/>
+
         <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/tailwindcss.png" alt="Tailwind CSS Icon"/>
 
 </p>
