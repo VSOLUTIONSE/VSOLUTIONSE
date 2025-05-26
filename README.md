@@ -1,4 +1,5 @@
-## Welcome Am Favour Emmanuel
+##👋 Hi, I'm Favour Emmanuel
+I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-world problems through clean, efficient, and user-focused code.
 
 <p align="center">
 <img 
@@ -12,10 +13,18 @@
 </p>
 
 
-- I'm an ardent **Learner** | **Frontend Developer** 
-- About me :- **Love Solving Problems** | **AI-Enthusiast**
-- Currently **learning React Naitive and appwrite architecture for buiding intuitive fullstack apps ** **Building solo**
-- Willing to contribute more and more in **Web Development, Open-Source and Brand Projects**
+🚀 About Me
+
+🔧 Love tackling challenges and crafting elegant solutions
+
+🤖 AI Enthusiast with a growing interest in intelligent, user-adaptive interfaces
+
+🛠️ Currently diving into React Native and Appwrite architecture to build intuitive, full-stack mobile/web apps — solo and hands-on
+
+🌍 Open to contributions and collaboration on Frontend Development, Open Source, and impactful Business focused Projects for startups and high value brands
+
+📚 Always exploring new technologies and best practices to level up and deliver real value
+
 
 
 ### Feel Free to Contact me.....
