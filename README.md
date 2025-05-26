@@ -2,11 +2,12 @@
 I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-world problems through clean, efficient, and user-focused code.
 
 <p align="center">
-<img 
-  width="40%" 
-  src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" 
-  alt="Developer Coding Illustration" 
+<img
+  width="40%"
+  src="https://cdn.jsdelivr.net/gh/undraw/illustrations/png/developer.png"
+  alt="Developer Coding Illustration (PNG)"
 />
+
 
 </p>
 
