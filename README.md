@@ -1,15 +1,7 @@
 ## 👋 Hi, I'm Favour Emmanuel
 I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-world problems through clean, efficient, and user-focused code.
 
-<p align="center">
-<img 
-    width="40%"  
-    src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1280&q=80" 
-    alt="Developer Coding Illustration"
-/>
 
-
-</p>
 
 
 🚀 About Me
