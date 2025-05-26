@@ -1,7 +1,13 @@
 ## Welcome Am Favour Emmanuel
 
 <p align="center">
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/git.png" alt="Git Icon"/>
+<img 
+  width="40%" 
+  style="padding:10px" 
+  src="https://cdn.dribbble.com/users/1626229/screenshots/16040024/media/59ce1228b42ac745198ff7d8b1c8a0ff.gif" 
+  alt="Developer Working Illustration"
+/>
+
 </p>
 
 
