@@ -7,7 +7,7 @@
 
 - I'm an ardent **Learner** | **Software Developer** 
 - About me :- **Love Solving Problems** | **AI-Enthusiast**
-- Currently **Building backend APIs with Nodejs and expressjs** **Building solo**
+- Currently **learning React Naitive and appwrite architecture for buiding intuitive fullstack apps ** **Building solo**
 - Willing to contribute more and more in **Web Development, Open-Source and Brand Projects**
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 	<a href="https://github.com/VSOLUTIONSE"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/favour-emmanuel-183226161"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/favour-em"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
 
 ### Stack/Languages....
