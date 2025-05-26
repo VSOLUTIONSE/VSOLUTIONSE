@@ -30,9 +30,17 @@ I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/VSOLUTIONSE"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/favour-em"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/VSOLUTIONSE">
+		<img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+	</a>
+	<a href="https://www.linkedin.com/in/favour-em">
+		<img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+	</a>
+	<a href="mailto:femmaje@gmail.com">
+		<img alt="email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/new-post.png"/>
+	</a>
 </p>
+
 
 ### Stack/Languages....
 
