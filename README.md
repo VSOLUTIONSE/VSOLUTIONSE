@@ -1,4 +1,4 @@
-##👋 Hi, I'm Favour Emmanuel
+## 👋 Hi, I'm Favour Emmanuel
 I'm an ardent Learner and passionate Frontend Developer who enjoys solving real-world problems through clean, efficient, and user-focused code.
 
 <p align="center">
